@@ -1,0 +1,24 @@
+🌟 Introducing a transformative Power BI Dashboard Project focused on Credit Card Customer and Transaction Insights! 🌟
+
+Dive into our innovative dashboard designed to provide real-time insights into credit card performance and trends, enabling precise analysis and effective monitoring. Here’s a snapshot of the key takeaways:
+
+🔹 Customer Satisfaction: Overall score stands at 3.19, highlighting areas for improvement and growth.
+🔹 Financial Overview:
+ - Total Revenue: $57M
+ - Interest Earned: $8M
+ - Transaction Value: $46M
+🔹 Customer Preferences : Swipe transactions dominate, reflecting a clear preference over other methods.
+🔹 Revenue Contributions:
+ - Blue Card: Accounts for a staggering 82.5% of revenue.
+ - Businessman: Contributes 31% of total revenue.
+🔹 Performance Metrics:
+ - Delinquent Rate: 6.06%, providing insights into credit risk.
+ - Activation Rate: 57.5%, indicating the effectiveness of card activation strategies.
+🔹 Regional Insights: TX, NY, and CA together contribute a substantial 68% of revenue.
+🔹 Gender Breakdown:
+ - Male Customers: Generate $31M in revenue.
+ - Female Customers: Contribute $26M.
+🔹 Usage Trends: Bill payments are the top transaction category, making up 24% of total revenue.
+🔹Age Distribution: 50% of active customers fall within the 40-60 age range.
+
+This dashboard is a powerful tool for unraveling complex credit card data, offering actionable insights that can drive strategic decisions and enhance business performance. Let’s transform data into impactful strategies! 📊✨
